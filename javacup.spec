@@ -44,7 +44,7 @@ rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT{%{_javaclassdir}/%{name}/java_cup/runtime,%{_sysconfdir}/profile.d/}
 install java_cup/*.class $RPM_BUILD_ROOT%{_javaclassdir}/%{name}/java_cup
 install java_cup/runtime/*.class $RPM_BUILD_ROOT%{_javaclassdir}/%{name}/java_cup/runtime
-install %{SOURCE1} %{SOURCE2} $RPM_BUILD_ROOT/%{_sysconfdir}/profile.d
+install %{SOURCE1} %{SOURCE2} $RPM_BUILD_ROOT%{_sysconfdir}/profile.d
 
 %clean
 rm -rf $RPM_BUILD_ROOT
