@@ -1,5 +1,5 @@
 Summary:	Java Based Constructor of Useful Parsers
-Summary(pl):	Konstruktor u¿ytecznych parserów bazuj±cy na Javie
+Summary(pl.UTF-8):   Konstruktor uÅ¼ytecznych parserÃ³w bazujÄ…cy na Javie
 Name:		javacup
 Version:	10k
 Release:	1
@@ -25,12 +25,12 @@ offers most of the features of YACC. However, CUP is written in Java,
 uses specifications including embedded Java code, and produces parsers
 which are implemented in Java.
 
-%description -l pl
-Java(tm) Based Constructor of Useful Parsers (w skrócie CUP) jest
-systemem do generowania parserów LALR z prostych specyfikacji. Spe³nia
-tak± sam± rolê jak czêsto u¿ywany program YACC i faktycznie oferuje
-wiêkszo¶æ z jego mo¿liwo¶ci. CUP jest napisany w Javie, wykorzystuje
-specyfikacjê za³±czaj±ca wbudowany kod Javy i tworzy parsery
+%description -l pl.UTF-8
+Java(tm) Based Constructor of Useful Parsers (w skrÃ³cie CUP) jest
+systemem do generowania parserÃ³w LALR z prostych specyfikacji. SpeÅ‚nia
+takÄ… samÄ… rolÄ™ jak czÄ™sto uÅ¼ywany program YACC i faktycznie oferuje
+wiÄ™kszoÅ›Ä‡ z jego moÅ¼liwoÅ›ci. CUP jest napisany w Javie, wykorzystuje
+specyfikacjÄ™ zaÅ‚Ä…czajÄ…ca wbudowany kod Javy i tworzy parsery
 zaimplementowane w Javie.
 
 %prep
