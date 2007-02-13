@@ -1,5 +1,5 @@
 Summary:	Java Based Constructor of Useful Parsers
-Summary(pl.UTF-8):   Konstruktor użytecznych parserów bazujący na Javie
+Summary(pl.UTF-8):	Konstruktor użytecznych parserów bazujący na Javie
 Name:		javacup
 Version:	10k
 Release:	1
