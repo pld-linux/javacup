@@ -5,8 +5,8 @@ Version:	10k
 Release:	1
 License:	distributable, see included LICENSE
 Group:		Development/Languages/Java
-# Source0-md5:	8b11edfec13c590ea443d0f0ae0da479
 Source0:	http://www.cs.princeton.edu/~appel/modern/java/CUP/java_cup_v%{version}.tar.gz
+# Source0-md5:	8b11edfec13c590ea443d0f0ae0da479
 Source1:	%{name}.sh
 Source2:	%{name}.csh
 URL:		http://www.cs.princeton.edu/~appel/modern/java/CUP/
